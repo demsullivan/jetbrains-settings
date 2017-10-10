@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4403ffa7-4532-4360-8afe-1c5c56f6174e" name="Production" url="http://prod-mri-api01.hoodq.com">
+        <fileTransfer host="prod-mri-api01.hoodq.com" port="22" privateKey="$USER_HOME$/.ssh/mac_github" rootFolder="/data/web/platform.hoodq.com/current" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8fe78e7c-f9a1-46f5-9d04-c1769d2e36f4" name="Staging" url="http://stage-mri-api01.hoodq.com">
+        <fileTransfer host="stage-mri-api01.hoodq.com" port="22" privateKey="$USER_HOME$/.ssh/mac_github" rootFolder="/data/web/stage-platform.hoodq.com/current" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
