@@ -8972,6 +8972,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p645/lib/ruby/gems/2.0.0/gems/yard-0.8.7.6/benchmarks" />
       </SOURCES>
     </library>
+    <library name="yard (v0.9.9, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yard-0.9.9/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="zurb-foundation (v4.2.3, rbenv: 2.0.0-p645) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p645/lib/ruby/gems/2.0.0/gems/zurb-foundation-4.2.3/js" />
