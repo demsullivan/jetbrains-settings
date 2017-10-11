@@ -1,14 +1,28 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="ParameterInfo" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="down" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="right" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
