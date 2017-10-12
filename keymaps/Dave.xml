@@ -25,6 +25,7 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="b" />
   </action>
@@ -38,7 +39,11 @@
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="r" />
   </action>
   <action id="IntroduceVariable" />
+  <action id="ParameterInfo" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
