@@ -1736,6 +1736,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.0.0, Remote:ruby-2.3.1-p112 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/did_you_mean-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/did_you_mean-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.0.0, Remote:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/-710643726/gems/did_you_mean-1.0.0/lib" />
@@ -4908,6 +4920,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.8.3, Remote:ruby-2.3.1-p112 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.8.3, Remote:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/-710643726/gems/minitest-5.8.3/lib" />
@@ -5268,6 +5288,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, Remote:ruby-2.3.1-p112 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, Remote:ruby-2.3.1-p112) [gem]">
@@ -5760,6 +5790,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.6, Remote:ruby-2.3.1-p112 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/power_assert-0.2.6/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.6, Remote:ruby-2.3.1-p112) [gem]">
@@ -6534,6 +6572,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, Remote:ruby-2.3.1-p112 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/rake-10.4.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/rake-10.4.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, Remote:ruby-2.3.1-p112) [gem]">
@@ -8120,6 +8170,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.1.5, Remote:ruby-2.3.1-p112 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/test-unit-3.1.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/test-unit-3.1.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.1.5, Remote:ruby-2.3.1-p112) [gem]">
