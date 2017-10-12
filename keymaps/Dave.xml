@@ -3,11 +3,14 @@
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="a" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Move">
+    <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="m" />
+  </action>
   <action id="ChangesView.NewChangeList">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="l" />
   </action>
   <action id="ChangesView.SetDefault">
-    <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="meta l" />
   </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="alt c" />
@@ -31,6 +34,9 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="p" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="r" />
+  </action>
   <action id="IntroduceVariable" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
@@ -42,6 +48,12 @@
   </action>
   <action id="VcsShowCurrentChangeMarker">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="v" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
