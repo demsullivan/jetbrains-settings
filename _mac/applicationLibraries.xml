@@ -1552,6 +1552,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/-710643726/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/-710643726/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/-710643726/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/-710643726/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
@@ -1572,6 +1582,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/1701860331/gems/debase-0.2.2.beta10/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta10, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/debase-0.2.2.beta10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/debase-0.2.2.beta10/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.9.10, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.9.10/lib" />
@@ -1586,6 +1606,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/-710643726/gems/debase-ruby_core_source-0.9.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.11, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/debase-ruby_core_source-0.9.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/debase-ruby_core_source-0.9.11/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.0.0-p645) [gem]">
@@ -7252,6 +7280,18 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/1701860331/gems/ruby-debug-ide-0.6.1.beta9/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/1701860331/gems/ruby-debug-ide-0.6.1.beta9/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1757261407/1701860331/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta9, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1178137612/1701860331/gems/ruby-debug-ide-0.6.1.beta9/lib" />
       </SOURCES>
     </library>
     <library name="ruby-hmac (v0.4.0, rbenv: 2.0.0-p645) [gem]">
