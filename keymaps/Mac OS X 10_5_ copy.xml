@@ -29,6 +29,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="b" />
   </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="m" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="p" />
   </action>
