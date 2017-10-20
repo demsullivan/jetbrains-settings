@@ -17,6 +17,8 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="d" />
@@ -39,7 +41,11 @@
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="r" />
   </action>
   <action id="IntroduceVariable" />
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="NextOccurence" />
   <action id="ParameterInfo" />
+  <action id="PreviousOccurence" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -54,12 +60,8 @@
   <action id="VcsShowCurrentChangeMarker">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="v" />
   </action>
-  <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="meta alt down" />
-  </action>
-  <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="meta alt up" />
-  </action>
+  <action id="VcsShowNextChangeMarker" />
+  <action id="VcsShowPrevChangeMarker" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
