@@ -622,6 +622,160 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="jsonapi-deserializable (v0.1.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-deserializable-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-deserializable-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-deserializable (v0.2.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-deserializable-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-deserializable-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-parser (v0.1.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-parser-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-parser-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-rails (v0.2.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rails-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rails-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-rails (v0.3.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rails-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rails-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-rb (v0.2.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rb-0.2.1" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rb-0.2.1" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-rb (v0.5.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rb-0.5.0" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-rb-0.5.0" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-renderer (v0.2.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-renderer-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-renderer-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-serializable (v0.2.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-serializable-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-serializable-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-serializable (v0.3.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-serializable-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-serializable-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi_compliable (v0.10.5, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_compliable-0.10.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_compliable-0.10.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_compliable-0.10.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_compliable-0.10.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_compliable-0.10.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_compliable-0.10.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi_errorable (v0.7.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_errorable-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_errorable-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_errorable-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_errorable-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_errorable-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_errorable-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi_suite (v0.6.7, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_suite-0.6.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_suite-0.6.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_suite-0.6.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi_suite-0.6.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari (v1.1.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-1.1.0/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-1.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-1.1.0/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-1.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-actionview (v1.1.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-actionview-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-actionview-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.1.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-activerecord-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-activerecord-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.1.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-core-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-core-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-core-1.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-core-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-core-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/kaminari-core-1.1.0/config" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.1.5, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/listen-3.1.5/bin" />
@@ -1250,6 +1404,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sprockets-rails-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="strong_resources (v0.6.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/strong_resources-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/strong_resources-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/strong_resources-0.6.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/strong_resources-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/strong_resources-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/strong_resources-0.6.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="stronger_parameters (v2.9.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/stronger_parameters-2.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/stronger_parameters-2.9.1/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.1.5, rbenv: 2.3.1) [gem]">
