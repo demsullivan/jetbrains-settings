@@ -45,6 +45,12 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="right" />
+  </action>
   <action id="SurroundWith" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="shift p" />
