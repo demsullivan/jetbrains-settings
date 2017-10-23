@@ -15,6 +15,10 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="c" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
@@ -35,6 +39,12 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="p" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta alt g" second-keystroke="d" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -44,6 +54,9 @@
   </action>
   <action id="IntroduceVariable" />
   <action id="ParameterInfo" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -71,6 +84,7 @@
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.jetbrains.plugins.ruby.rails.actions.generators.GeneratorsPopupAction" />
   <action id="tasks.close">
     <keyboard-shortcut first-keystroke="meta alt t" second-keystroke="x" />
   </action>
