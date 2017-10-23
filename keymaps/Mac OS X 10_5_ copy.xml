@@ -38,6 +38,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="IntroduceVariable" />
   <action id="ParameterInfo" />
   <action id="RunDashboard.CopyConfiguration" />
@@ -52,6 +56,13 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="right" />
   </action>
   <action id="SurroundWith" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="meta alt w" second-keystroke="d" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="meta alt w" second-keystroke="f" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="shift p" />
   </action>
