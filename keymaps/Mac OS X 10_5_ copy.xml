@@ -35,12 +35,12 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="p" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="IntroduceVariable" />
   <action id="ParameterInfo" />
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
