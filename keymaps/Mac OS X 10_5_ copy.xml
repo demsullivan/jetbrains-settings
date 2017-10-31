@@ -35,6 +35,10 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="p" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="IntroduceVariable" />
   <action id="ParameterInfo" />
   <action id="RunDashboard.CopyConfiguration" />
