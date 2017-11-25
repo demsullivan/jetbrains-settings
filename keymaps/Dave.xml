@@ -40,6 +40,9 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="r" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="IntroduceVariable" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
