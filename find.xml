@@ -7,25 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.py</mask>
-      <mask>wev</mask>
-      <mask>we</mask>
-      <mask>web/</mask>
-      <mask>web/s</mask>
-      <mask>web/te</mask>
-      <mask>web/tes</mask>
-      <mask>web/tests</mask>
-      <mask>web/test</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.rb" />
   </component>
 </application>
