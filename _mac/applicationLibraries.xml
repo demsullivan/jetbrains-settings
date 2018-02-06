@@ -470,6 +470,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/capistrano-chruby-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-dotenv-tasks (v0.1.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/capistrano-dotenv-tasks-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/capistrano-dotenv-tasks-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rails (v1.1.8, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/capistrano-rails-1.1.8/lib" />
