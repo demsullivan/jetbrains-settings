@@ -55,12 +55,17 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta alt g" second-keystroke="d" />
   </action>
+  <action id="GotoRelated" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
   <action id="IntroduceVariable" />
-  <action id="MoveLineDown" />
-  <action id="MoveLineUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="NextOccurence" />
   <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
