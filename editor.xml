@@ -3,15 +3,16 @@
     <option name="FONT_SIZE" value="13" />
     <option name="FONT_SCALE" value="1.0833334" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\bdave\b.*" />
-    <filter name="Dave">
+    <pattern useCustomColors="true" pattern="# coverage\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="BACKGROUND" value="a70300" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <filter name="Coverage Type">
       <pattern index="2" />
     </filter>
   </component>
