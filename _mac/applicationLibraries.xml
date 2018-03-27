@@ -418,6 +418,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
       </SOURCES>
     </library>
+    <library name="bitfields (v0.8.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bitfields-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bitfields-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bootstrap-sass (v2.3.2.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bootstrap-sass-2.3.2.2/vendor" />
