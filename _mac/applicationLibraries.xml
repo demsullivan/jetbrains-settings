@@ -1314,6 +1314,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc-api" />
       </SOURCES>
     </library>
+    <library name="et-orbi (v1.1.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/et-orbi-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/et-orbi-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="eventmachine (v1.2.3, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.3" />
@@ -4512,6 +4520,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/rubyzip-98f4f2ed9b3a/samples" />
       </SOURCES>
     </library>
+    <library name="rufus-scheduler (v3.4.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rufus-scheduler-3.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.4.22, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sass-3.4.22/extra" />
@@ -4680,6 +4696,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sidekiq-4.2.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sidekiq-4.2.9/web" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sidekiq-4.2.9/.github" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-cron (v0.6.3, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sidekiq-cron-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sidekiq-cron-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq-ent (v1.5.2, rbenv: 2.3.1) [gem]">
