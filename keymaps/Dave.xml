@@ -9,6 +9,14 @@
   <action id="ChangesView.SetDefault">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="meta l" />
   </action>
+  <action id="ChangesView.ShelveSilently">
+    <keyboard-shortcut first-keystroke="meta alt h" />
+    <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="s" />
+  </action>
+  <action id="ChangesView.UnshelveSilently">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+    <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="u" />
+  </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta alt v" second-keystroke="alt c" />
   </action>
