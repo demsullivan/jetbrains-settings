@@ -89,6 +89,9 @@
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
   <action id="IntroduceVariable" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="shift right" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
@@ -96,6 +99,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="NextOccurence" />
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="ctrl right" />
+  </action>
   <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
   <action id="Resume">
