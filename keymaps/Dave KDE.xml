@@ -1,0 +1,45 @@
+<keymap version="1" name="Dave KDE" parent="Default for KDE">
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="a" />
+  </action>
+  <action id="ChangesView.RemoveDeleted">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="d" />
+  </action>
+  <action id="ChangesView.ShelveSilently">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="s" />
+  </action>
+  <action id="ChangesView.UnshelveSilently">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="shift s" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="c" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="b" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="m" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="shift p" />
+  </action>
+  <action id="Git.Rebase">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="r" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="right" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="p" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="v" />
+  </action>
+</keymap>
