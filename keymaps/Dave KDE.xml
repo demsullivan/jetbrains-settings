@@ -2,6 +2,7 @@
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="a" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.RemoveDeleted">
     <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="d" />
   </action>
@@ -14,6 +15,24 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="c" />
   </action>
+  <action id="DecreaseColumnWidth" />
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="b" />
   </action>
@@ -28,6 +47,14 @@
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowWidth" />
+  <action id="ParameterInfo" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="down" />
