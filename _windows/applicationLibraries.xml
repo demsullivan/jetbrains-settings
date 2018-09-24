@@ -1216,6 +1216,25 @@
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/232573220/1701860331/gems/debase-0.2.3.beta2/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta2, Remote: ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/debase-0.2.3.beta2/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.3.beta2, Remote: ruby-2.3.4-p301) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -5368,6 +5387,25 @@
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/232573220/1701860331/gems/ruby-debug-ide-0.6.1/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.6.1, Remote: ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.6.1/ext" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta9, Remote: ruby-2.3.1-p112 (1)) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -5404,6 +5442,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/232573220/1701860331/gems/ruby-debug-ide-0.7.0.beta6/bin" />
         <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/232573220/1701860331/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta6, Remote: ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2018.2/system/ruby_stubs/-489831595/-2012454848/gems/ruby-debug-ide-0.7.0.beta6/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta6, Remote: ruby-2.3.4-p301) [gem]" type="rubylib">
