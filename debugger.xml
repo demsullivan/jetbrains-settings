@@ -13,6 +13,12 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
+      <debugger id="ruby">
+        <configuration>
+          <option name="timeout" value="30" />
+          <option name="verboseOutput" value="true" />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>
