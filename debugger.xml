@@ -1,7 +1,6 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="showValuesInline" value="false" />
       <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
@@ -15,7 +14,6 @@
       </debugger>
       <debugger id="ruby">
         <configuration>
-          <option name="timeout" value="30" />
           <option name="verboseOutput" value="true" />
         </configuration>
       </debugger>
