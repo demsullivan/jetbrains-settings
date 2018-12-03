@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="c" />
   </action>
   <action id="DecreaseColumnWidth" />
+  <action id="Diagram.DeselectAll" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -76,5 +77,14 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="ctrl alt v" second-keystroke="v" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantHaltAction">
+    <keyboard-shortcut first-keystroke="ctrl alt a" second-keystroke="h" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantReloadAction">
+    <keyboard-shortcut first-keystroke="ctrl alt a" second-keystroke="r" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantUpAction">
+    <keyboard-shortcut first-keystroke="ctrl alt a" second-keystroke="u" />
   </action>
 </keymap>
