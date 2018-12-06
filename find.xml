@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.rake</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.css</mask>
     <mask>*.rb</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
