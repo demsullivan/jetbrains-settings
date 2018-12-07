@@ -3,17 +3,5 @@
     <option name="customScope" value="Project 'sourceress'" />
     <option name="defaultScopeName" value="Project 'sourceress'" />
     <option name="SEARCH_SCOPE" value="Project 'sourceress'" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.rake</mask>
-    <mask>*.js</mask>
-    <mask>*.css</mask>
-    <mask>*.rb</mask>
-    <mask>*.vue</mask>
   </component>
 </application>
