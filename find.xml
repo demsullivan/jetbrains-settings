@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sourceress'" />
-    <option name="defaultScopeName" value="Project 'sourceress'" />
-    <option name="SEARCH_SCOPE" value="Project 'sourceress'" />
+    <option name="customScope" value="Python" />
+    <option name="defaultScopeName" value="Python" />
+    <option name="SEARCH_SCOPE" value="Python" />
   </component>
 </application>
