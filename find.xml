@@ -1,20 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.rake</mask>
-    <mask>*.js</mask>
-    <mask>*.css</mask>
-    <mask>*.vue</mask>
-    <mask>*.rb</mask>
+    <option name="customScope" value="Project 'sourceress'" />
+    <option name="defaultScopeName" value="Project 'sourceress'" />
+    <option name="SEARCH_SCOPE" value="Project 'sourceress'" />
   </component>
 </application>
