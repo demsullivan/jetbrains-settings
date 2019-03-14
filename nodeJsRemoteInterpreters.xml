@@ -1,5 +1,0 @@
-<application>
-  <component name="NodeJSRemoteInterpreters">
-    <interpreter node-remote-interpreter="vagrant://C:/Users/demsu/work/sked/home/vagrant/.nvm/versions/node/v8.11.3/bin/node" VAGRANT_FOLDER="C:\Users\demsu\work\sked" INTERPRETER_PATH="/home/vagrant/.nvm/versions/node/v8.11.3/bin/node" HELPERS_PATH="/home/vagrant/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="8.11.3" />
-  </component>
-</application>
