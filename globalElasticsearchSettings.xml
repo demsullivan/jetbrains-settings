@@ -1,0 +1,23 @@
+<application>
+  <component name="GlobalElasticsearchConfiguration">
+    <option name="clusterConfigurations">
+      <map>
+        <entry key="f873dd38-652e-4690-8ff5-7c29b9c9bd49">
+          <value>
+            <h>
+              <option name="credentialsStored" value="true" />
+              <option name="id" value="f873dd38-652e-4690-8ff5-7c29b9c9bd49" />
+              <option name="label" value="Elastic Cloud" />
+              <option name="url" value="https://6d424a5207dc4cb192d7b576b3ee9fcd.ca-central-1.aws.elastic-cloud.com:9243" />
+            </h>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="searchRequestHistory">
+      <map>
+        <entry key="f873dd38-652e-4690-8ff5-7c29b9c9bd49" value="W3sicGF0aCI6InByb2R1Y3Rpb24tcGxhY2VzLW5laWdoYm91cmhvb2RzIiwiYm9keSI6IntcbiAgXCJmcm9tXCI6IDAsXG4gIFwic2l6ZVwiOiAxMCxcbiAgXCJxdWVyeVwiOiB7XG4gICAgXCJtYXRjaF9hbGxcIjoge31cbiAgfVxufSIsIm1ldGhvZCI6IkdFVCJ9LHsicGF0aCI6InBlbGlhcyIsImJvZHkiOiJ7XG4gIFwiZnJvbVwiOiAwLFxuICBcInNpemVcIjogMTAsXG4gIFwicXVlcnlcIjoge1xuICAgIFwibWF0Y2hfYWxsXCI6IHt9XG4gIH1cbn0iLCJtZXRob2QiOiJHRVQifV0=" />
+      </map>
+    </option>
+  </component>
+</application>
