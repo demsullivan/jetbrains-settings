@@ -4,12 +4,12 @@
       <map>
         <entry key="f873dd38-652e-4690-8ff5-7c29b9c9bd49">
           <value>
-            <j>
+            <h>
               <option name="credentialsStored" value="true" />
               <option name="id" value="f873dd38-652e-4690-8ff5-7c29b9c9bd49" />
               <option name="label" value="Elastic Cloud" />
               <option name="url" value="https://6d424a5207dc4cb192d7b576b3ee9fcd.ca-central-1.aws.elastic-cloud.com:9243" />
-            </j>
+            </h>
           </value>
         </entry>
       </map>
@@ -22,6 +22,11 @@
     <option name="searchQueryHistory">
       <map>
         <entry key="f873dd38-652e-4690-8ff5-7c29b9c9bd49" value="W3sicXVlcnkiOiJjaXR5LnNsdWc6IFwidG9yb250by1vblwiIn0seyJxdWVyeSI6IkU1MjUyNDEyIn1d" />
+      </map>
+    </option>
+    <option name="searchRequestHistory">
+      <map>
+        <entry key="f873dd38-652e-4690-8ff5-7c29b9c9bd49" value="W3sicGF0aCI6InByb2R1Y3Rpb24tcGxhY2VzLW5laWdoYm91cmhvb2RzIiwiYm9keSI6IntcbiAgXCJmcm9tXCI6IDAsXG4gIFwic2l6ZVwiOiAxMCxcbiAgXCJxdWVyeVwiOiB7XG4gICAgXCJtYXRjaF9hbGxcIjoge31cbiAgfVxufSIsIm1ldGhvZCI6IkdFVCJ9XQ==" />
       </map>
     </option>
   </component>
