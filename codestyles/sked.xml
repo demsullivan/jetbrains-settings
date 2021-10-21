@@ -17,6 +17,7 @@
   </JSCodeStyleSettings>
   <Ruby>
     <option name="INDENT_WHEN_CASES" value="true" />
+    <option name="CHAIN_CALLS_ALIGNMENT" value="1" />
   </Ruby>
   <codeStyleSettings language="HTML">
     <indentOptions>
@@ -33,6 +34,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <indentOptions>
       <option name="USE_RELATIVE_INDENTS" value="false" />
