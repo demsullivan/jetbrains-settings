@@ -87,4 +87,5 @@
   <action id="com.jetbrains.plugins.vagrant.actions.VagrantUpAction">
     <keyboard-shortcut first-keystroke="ctrl alt a" second-keystroke="u" />
   </action>
+  <action id="context.load" />
 </keymap>
