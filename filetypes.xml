@@ -10,6 +10,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="hq" type="PLAIN_TEXT" />
+      <mapping ext="latest" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <removed_mapping ext="es" approved="true" type="ActionScript" />
     </extensionMap>
   </component>
 </application>
